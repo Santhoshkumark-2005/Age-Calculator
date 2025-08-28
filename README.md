@@ -32,23 +32,23 @@ Age-Calculator
 
 # 🖥️ How It Works
 
-1.Enter your birthdate in the date input field.
+1.Enter your **birthdate** in the date input field.
 
-2.Click on Calculate Age button.
+2.Click on **Calculate Age button**.
 
 3.Instantly see:
 
-•Your age in years, months, days.
+•Your age in **years, months, days**.
 
-•Total time lived in months, days, hours, minutes, and seconds.
+•Total time lived in **months, days, hours, minutes, and seconds**.
 
 # 🛠️ Technologies Used
 
-•HTML5 – Structure
+•**HTML5** – Structure
 
-•CSS3 – Styling
+•**CSS3** – Styling
 
-•JavaScript (ES6) – Age calculation logic
+•**JavaScript (ES6)** – Age calculation logic
 
 # 🏃 How to Run
 
@@ -66,13 +66,13 @@ You can double-click it or use a local server for better performance.
 
 # 🔮 Future Enhancements
 
-•Add Dark Mode.
+•Add **Dark Mode.**
 
-•Include Zodiac Sign Calculation.
+•Include **Zodiac Sign Calculation.**
 
-•Show Upcoming Birthday Countdown.
+•Show **Upcoming Birthday Countdown.**
 
-•Deploy as a Progressive Web App (PWA).
+•Deploy as a **Progressive Web App (PWA).**
 
 # 🤝 Contributing
 
