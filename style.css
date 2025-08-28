@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-image:url(../../../Downloads/OIP.jpg);
+   
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: #c50e0e;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container {
+    background-color: rgba(106, 129, 160, 0.9); /* Slight opacity to show background */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(191, 135, 135, 0.1);
+    width: 300px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+label {
+    font-size: 16px;
+    margin-bottom: 10px;
+    display: block;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: rgb(39, 187, 34);
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #b33c00ee;
+}
+
+#output {
+    margin-top: 20px;
+    font-size: 16px;
+    text-align: left;
+}
+
+#output p {
+    margin-bottom: 10px;
+}
+
